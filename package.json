@@ -1,0 +1,26 @@
+{
+  "name": "gag-server",
+  "version": "1.0.0",
+  "description": "green api gateway server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiashRahman10/gag-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PiashRahman10/gag-server/issues"
+  },
+  "homepage": "https://github.com/PiashRahman10/gag-server#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
